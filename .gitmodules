@@ -1,0 +1,6 @@
+[submodule "common/jwt-cpp"]
+	path = common/jwt-cpp
+	url = https://github.com/Thalhammer/jwt-cpp
+[submodule "common/nlohmann/json"]
+	path = common/nlohmann/json
+	url = https://github.com/nlohmann/json
